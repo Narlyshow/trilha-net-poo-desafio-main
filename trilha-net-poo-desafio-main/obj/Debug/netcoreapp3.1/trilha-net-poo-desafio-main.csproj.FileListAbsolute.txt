@@ -1,0 +1,14 @@
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.exe
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.deps.json
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.runtimeconfig.json
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.runtimeconfig.dev.json
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.dll
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.pdb
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.csproj.AssemblyReference.cache
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.AssemblyInfoInputs.cache
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.AssemblyInfo.cs
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.csproj.CoreCompileInputs.cache
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.dll
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.pdb
+C:\Users\Narlson\source\repos\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\netcoreapp3.1\trilha-net-poo-desafio-main.genruntimeconfig.cache
